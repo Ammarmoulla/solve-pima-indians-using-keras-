@@ -16,3 +16,7 @@ scales. Below lists the eight attributes for the dataset:
 9. Class, onset of diabetes within five years.
 open in google colab using link:
 https://colab.research.google.com/drive/1Pl3uSh-BBmmChyOmHC7ZMbpUfO4w6yjQ#scrollTo=LJeMigX5XARW&forceEdit=true&sandboxMode=true
+Requirements:
+  keras
+  numpy
+  pandas
